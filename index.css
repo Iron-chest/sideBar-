@@ -93,7 +93,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    /* text-align: center; */
     outline: none;
     text-decoration: none;
 }
@@ -115,8 +114,6 @@ body {
 
  .sideBar .list.active a .icon { 
     color: #fff;
-    /* border-left: 2px solid black;
-    border-bottom: 2px solid black; */
     background-color: var(--clr);
     transform: translateX(40px);
     /* filter: blur(.9px); */
